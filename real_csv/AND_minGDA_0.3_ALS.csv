@@ -1,0 +1,6 @@
+TranscriptionFactor,TargetGene,ModeOfRegulation,PMID
+TP53,FUS,Unknown,12364590
+TP53,GSTP1,Activation,18505928
+TP53,PPARGC1A,Unknown,19139068
+TP53,TP53,Activation,22532570
+TP53,TP53,Unknown,11032029;16990849
