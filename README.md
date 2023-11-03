@@ -6,3 +6,9 @@ Please cite the paper corresponding to this repository:
 ```
 ```
 ## How to run
+- Generate synthetic datasets by Generate_synthetic.ipynb
+- Construct real datasets by Generate_real.ipynb
+- Run QOMIC with synthetic datasets by QOMIC_synthetic_X.ipynb with X is the corresponding motif pattern.
+- Run QOMIC with real datasets by QOMIC_real_X.ipynb with X is the corresponding motif pattern.
+- Reconstruct experimental synthetic results by plot/synthetic/plot_X_results.ipynb with X is the corresponding motif pattern.
+- Reconstruct experimental real results by plot/real/plot_real_datasets.ipynb.
